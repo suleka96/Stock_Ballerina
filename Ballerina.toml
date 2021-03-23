@@ -1,0 +1,7 @@
+[package]
+org = "suleka"
+name = "stock_data"
+version = "0.1.0"
+
+[build-options]
+observabilityIncluded = true
